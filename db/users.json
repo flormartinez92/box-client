@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nicolas",
+      "email": "faureee@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "2",
+      "name": "Flor",
+      "email": "flor@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "Nicolás Faure",
+      "email": "faureee@gmail.com",
+      "password": "12345",
+      "id": "EfMMFgC"
+    },
+    {
+      "name": "Nicolás Faure",
+      "email": "nico@gmail.com",
+      "password": "12345",
+      "id": "sSwoz7m"
+    },
+    {
+      "name": "Nicolás Faure",
+      "email": "faure@gmail.com",
+      "password": "123",
+      "id": "gXOI_ts"
+    },
+    {
+      "name": "david faure",
+      "email": "david@mail.com",
+      "password": "12345",
+      "id": "G6_CRIg"
+    },
+    {
+      "name": "ivan lucana",
+      "email": "asd@gmail.com",
+      "password": "123456789Aa",
+      "id": "gf6zsoN"
+    }
+  ]
+}

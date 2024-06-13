@@ -1,0 +1,17 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+    image: box_delivery_client
+    container_name: box_client
+    ports:
+      - '3000:3000'
+    command: npm run dev
+    volumes:
+      - ./:/app
+    networks:
+      dev:
+
+networks:
+  dev:
